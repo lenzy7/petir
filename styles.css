@@ -2,12 +2,37 @@ body {
     font-family: Arial, sans-serif;
     margin: 5;
     padding: 5;
-    background-image: url('jpg/bg.jpg');
+    background-image: url('jpg/THUNDER.jpg');
     background-size: cover; 
     background-repeat: no-repeat; 
     
 }
+.teks-merah {
+    color: red;
+}
 
+.teks-biru {
+    color: blue;
+}
+
+.teks-pink {
+    color: pink;
+}
+.teks-purple {
+    color: purple;
+}
+.teks-violet {
+    color: violet;
+}
+.teks-navy {
+    color: navy;
+}
+.teks-gray {
+    color: gray;
+}
+.teks-white {
+    color: white;
+}
 header {
     background-color: #333;
     color: #0dd6c8;
